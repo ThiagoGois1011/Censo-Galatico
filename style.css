@@ -1,0 +1,26 @@
+.container__pesquisar{
+    margin-bottom: 40px;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.main--disebled{
+    display: none;
+}
+
+.div__planeta{
+    padding: 20px;
+    border: 2px solid black;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid black;  
+}
